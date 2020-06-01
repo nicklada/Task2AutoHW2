@@ -16,6 +16,6 @@ public class MobileBankApiTestShouldPut {
                 .post("/post")
                 .then()
                 .statusCode(200)
-                .body("form", equalTo("Petrov"));
+                .body("data", equalTo("Petrov"));
     }
 }
