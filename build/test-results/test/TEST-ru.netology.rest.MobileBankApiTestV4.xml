@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.rest.MobileBankApiTestV4" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-01T09:19:57" hostname="MacBook-Air-lada.local" time="4.195">
-  <properties/>
-  <testcase name="shouldReturnDemoAccounts()" classname="ru.netology.rest.MobileBankApiTestV4" time="4.195"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Warning: Nashorn engine is planned to be removed from a future JDK release
-]]></system-err>
-</testsuite>

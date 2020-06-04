@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.rest.MobileBankApiTestShouldPut" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-01T09:19:48" hostname="MacBook-Air-lada.local" time="8.239">
-  <properties/>
-  <testcase name="shouldPut()" classname="ru.netology.rest.MobileBankApiTestShouldPut" time="8.239"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
